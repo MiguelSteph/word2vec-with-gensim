@@ -1,6 +1,6 @@
 # Build and visualize Word2Vec model with Gensim
 
-[**This code belongs to the "Build and Visualize Word2Vec Model on Amazon Reviews" blog post.**]()
+[**This code belongs to the "Build and Visualize Word2Vec Model on Amazon Reviews" blog post.**](http://migsena.com/build-and-visualize-word2vec-model-on-amazon-reviews/)
 
 **[Word2vec](https://en.wikipedia.org/wiki/Word2vec)** is a very popular ***[Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)*** technique nowadays that uses a neural network to learn the vector representations of words called **"word embeddings"** in a particular text.
 
